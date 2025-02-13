@@ -21,10 +21,10 @@ Here’s a glimpse of my technical writing expertise:
 
 | Category | Tools |
 |----------|-------|
-| **Technical Writing** | ![MadCap Flare](https://your-icon-link.com/flare.png) MadCap Flare, ![Oxygen XML](https://your-icon-link.com/xml.png) Oxygen XML Editor, MS Word |
-| **Project Management** | ![JIRA](https://your-icon-link.com/jira.png) JIRA, ![Azure DevOps](https://your-icon-link.com/azure.png) Azure DevOps, Confluence, SharePoint |
-| **Data & Analytics** | ![SQL](https://your-icon-link.com/sql.png) SQL, ![Power BI](https://your-icon-link.com/powerbi.png) Power BI |
-| **Graphics & Workflows** | ![Snagit](https://your-icon-link.com/snagit.png) Snagit, ![Visio](https://your-icon-link.com/visio.png) MS Visio |
+| **Technical Writing** | ![MadCap Flare](https://your-icon-link.com/flare.png), ![Oxygen XML](https://your-icon-link.com/xml.png), ![MS Word](https://your-icon-link.com/wd.png) |
+| **Project Management** | ![JIRA](https://your-icon-link.com/jira.png), ![Azure DevOps](https://your-icon-link.com/azure.png), ![Confluence](https://your-icon-link.com/con.png), ![SharePoint](https://your-icon-link.com/SP.png) |
+| **Data & Analytics** | ![SQL](https://your-icon-link.com/sql.png), ![Power BI](https://your-icon-link.com/powerbi.png) |
+| **Graphics & Workflows** | ![Snagit](https://your-icon-link.com/snagit.png), ![MS Visio](https://your-icon-link.com/visio.png) |
 | **Methodologies** | Agile, SDLC, DITA |
 
 ---
