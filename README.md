@@ -1,4 +1,4 @@
-![Technical Writing Banner](https://github.com/armakkattil/armakkattil/blob/main/Technical%20Writing%20banner.png)
+![Technical Writing Banner](https://github.com/armakkattil/armakkattil/blob/main/Technical%20Writing%20Banner.png)
 
 # Hello! I'm Arjun 👋  
 ### 🚀 Technical Writer | Business Analyst | Documentation Expert
