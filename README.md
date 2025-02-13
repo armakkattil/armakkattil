@@ -10,7 +10,7 @@ I am a **technical writer** working in the **software industry** with expertise 
 ### 🛠️ Tools & Technologies
 
 #### 📖 Technical Writing & Authoring
-![MadCap Flare](https://www.madcapsoftware.com/products/flare/making-the-switch/)
+![MadCap Flare](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dmadcap%2BSoftware&psig=AOvVaw3zeZHpEf-Xvpp6GaRQRkG_&ust=1739530116521000&source=images&cd=vfe&opi=89978449&ved=0CBgQ3YkBahcKEwiwzYHuvMCLAxUAAAAAHQAAAAAQCQ)
 ![Oxygen XML Editor](https://img.shields.io/badge/Oxygen%20XML%20Editor-FF9800?style=for-the-badge)
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 
