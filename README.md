@@ -9,7 +9,7 @@ Bringing **9+ years** of experience in **software documentation**, **business an
 Here’s a glimpse of my technical writing expertise:
 
 📌 [Blog Writings](https://your-link.com)  
-📌 [User Guide (SaaS Product)](https://your-link.com)  
+📌 [User Guide (SaaS Product)](https://github.com/armakkattil/armakkattil/blob/main/SampleWork%201__UserManual.pdf)  
 📌 [Release Notes](https://your-link.com)  
 📌 [API Documentation](https://your-link.com)  
 📌 [As-Built Document](https://your-link.com)  
