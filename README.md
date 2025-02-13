@@ -46,9 +46,9 @@ Here’s a glimpse of my technical writing expertise:
 ---
 
 ## 🎓 Certifications
-✔ **Technical Writing: How to Write Software Documentation** - Udemy (2023)  
-✔ **Certified Business Analysis Professional™ (CBAP®)** - IIBA (2023)  
-✔ **Power BI for Data Analysts** - Microsoft Press (2025)  
+✔ [Technical Writing: How to Write Software Documentation](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8bb9c1eb-7426-4963-9d9c-a59b6ceaf08a.pdf) - Udemy (2023)  
+✔ [Certified Business Analysis Professional™ (CBAP®)](https://certificates.simplicdn.net/share/4291594.pdf) - IIBA (2023)  
+✔ [Power BI for Data Analysts](https://www.linkedin.com/learning/certificates/1c8dec2f32d31905c05cd725450fb16140e5fbc2c06e1b0464ff91b2059814aa) - Microsoft Press (2025)
 
 ---
 
