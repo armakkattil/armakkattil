@@ -3,7 +3,7 @@
 # Hello! I'm Arjun 👋  
 ### 🚀 Technical Writer | Business Analyst | Documentation Expert
 
-Bringing **9+ years** of experience in **software documentation**, **business analysis**, and **technical communication** across industries like **transportation**, **automotive retail**, and **pharma logistics**.
+I am a Technical Writer with 9 years of experience in **software documentation**, **business analysis**, and **technical communication** across industries like **transportation**, **automotive retail**, and **pharma logistics**.
 
 ## 📝 Portfolio Samples
 Here’s a glimpse of my technical writing expertise:
