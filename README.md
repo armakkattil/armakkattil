@@ -13,7 +13,7 @@ Here’s a glimpse of my technical writing expertise:
 📌 [Release Notes](https://github.com/armakkattil/armakkattil/blob/main/SampleWork%206_InternalReleaseNotes-R01.pdf)  
 📌 [API Documentation](https://github.com/armakkattil/armakkattil/blob/main/SampleWork%204_API%20Doc.pdf)  
 📌 [As-Built Document](https://github.com/armakkattil/armakkattil/blob/main/SampleWork%202_As-Built%20Doc.pdf)  
-📌 [Coming Soon Document](SampleWork 3_ComingSoon Doc.pdf)  
+📌 [Coming Soon Document](https://github.com/armakkattil/armakkattil/blob/main/SampleWork%203_ComingSoon%20Doc.pdf)  
 
 ---
 
