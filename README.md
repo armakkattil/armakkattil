@@ -12,7 +12,7 @@ Here’s a glimpse of my technical writing expertise:
 📌 [User Guide (SaaS Product)](https://github.com/armakkattil/armakkattil/blob/main/SampleWork%201__UserManual.pdf)  
 📌 [Release Notes](SampleWork 6_InternalReleaseNotes-R01.pdf)  
 📌 [API Documentation](SampleWork 4_API Doc.pdf, SampleWork 5_ Errors Guide.pdf)  
-📌 [As-Built Document](SampleWork 2_As-Built Doc.pdf)  
+📌 [As-Built Document](https://github.com/armakkattil/armakkattil/blob/main/SampleWork%202_As-Built%20Doc.pdf)  
 📌 [Coming Soon Document](SampleWork 3_ComingSoon Doc.pdf)  
 
 ---
