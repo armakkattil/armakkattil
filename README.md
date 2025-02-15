@@ -13,7 +13,7 @@ Here’s a glimpse of my technical writing expertise:
 📌 [Release Notes](https://your-link.com)  
 📌 [API Documentation](https://your-link.com)  
 📌 [As-Built Document](SampleWork 2_As-Built Doc.pdf)  
-📌 [Coming Soon Document](https://your-link.com)  
+📌 [Coming Soon Document](SampleWork 3_ComingSoon Doc.pdf)  
 
 ---
 
