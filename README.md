@@ -21,7 +21,7 @@ Here’s a glimpse of my technical writing expertise:
 
 | Category | Tools |
 |----------|-------|
-| **Technical Writing** | ![MadCap Flare](Madcap Flare.PNG), ![Oxygen XML](https://your-icon-link.com/xml.png), ![MS Word](https://your-icon-link.com/wd.png) |
+| **Technical Writing** | ![MadCap Flare](https://github.com/armakkattil/armakkattil/blob/main/Madcap%20Flare.PNG), ![Oxygen XML](https://your-icon-link.com/xml.png), ![MS Word](https://your-icon-link.com/wd.png) |
 | **Project Management** | ![JIRA](https://your-icon-link.com/jira.png), ![Azure DevOps](https://github.com/armakkattil/armakkattil/blob/main/Azure%20Icon.png), ![Confluence](https://your-icon-link.com/con.png), ![SharePoint](https://your-icon-link.com/SP.png) |
 | **Data & Analytics** | ![SQL](https://your-icon-link.com/sql.png), ![Power BI](https://your-icon-link.com/powerbi.png) |
 | **Graphics & Workflows** | ![Snagit](https://your-icon-link.com/snagit.png), ![MS Visio](https://your-icon-link.com/visio.png) |
