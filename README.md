@@ -55,5 +55,5 @@ Here’s a glimpse of my technical writing expertise:
 ## 📫 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/arjun-makkattil/)  
 📧 [Email](mailto:armakkattil@gmail.com)  
-📱 [Phone](tel:+91-9686807018)  
+📱 [Phone](+91-9686807018)  
 🌐 [Personal Website](https://your-website.com) 
